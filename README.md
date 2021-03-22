@@ -20,5 +20,5 @@
 - Exploratory Data Analysis.
 - Data visualisation using histograms, regression and line plots.
 
-![](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/left_shark.jpg)
+![](/left_shark.jpg)
 
