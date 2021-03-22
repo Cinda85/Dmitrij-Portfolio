@@ -7,14 +7,14 @@
  - Initializing and fitting logistic regression model and it's precision evaluation using confusion matrix.
  - Hyperparameter tuning.
 
-![](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/credit_card.jpg)
+![](/credit_card.jpg)
 
 # [Project 2: Discovery of Handwashing](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/Discovery%20of%20Handwashing.ipynb)
 - Exploratory data analysis.
 - Data visualisation.
 - Bootstrap analysis and confidence intervals.
 
-![](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/220px-Ignaz_Semmelweis_1860.jpg)
+![](/220px-Ignaz_Semmelweis_1860.jpg)
 
 # [Project 3: Super Bowl](https://github.com/Cinda85/Super-Bowl)
 - Exploratory Data Analysis.
