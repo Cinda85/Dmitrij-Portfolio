@@ -13,7 +13,8 @@ Data Science Portfolio
 ![](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/credit_card.jpg)
 
 # [Project 2: Discovery of Handwashing](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/Discovery%20of%20Handwashing.ipynb)
-- Exploratory data analysis
-- Data visualisation
-- Bootstrap analysis and confidence intervals
+- Exploratory data analysis.
+- Data visualisation.
+- Bootstrap analysis and confidence intervals.
+
 ![](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/220px-Ignaz_Semmelweis_1860.jpg)
