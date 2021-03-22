@@ -23,5 +23,5 @@ Data Science Portfolio
 - Exploratory Data Analysis.
 - Data visualisation using histograms, regression and line plots.
 
-![](https://github.com/Cinda85/Super-Bowl/blob/main/left_shark.jpg)
+![](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/left_shark.jpg)
 
