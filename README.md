@@ -22,5 +22,5 @@ Data Science Portfolio
 # [Project 3: Super Bowl](https://github.com/Cinda85/Super-Bowl)
 - Exploratory Data Analysis.
 - Data visualisation using histograms, regression and line plots.
-![left_shark](https://github.com/Cinda85/Super-Bowl/blob/main/left_shark.jpg)
+![](left_shark.jpg)
 
