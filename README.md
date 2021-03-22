@@ -20,3 +20,7 @@ Data Science Portfolio
 ![](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/220px-Ignaz_Semmelweis_1860.jpg)
 
 # [Project 3: Super Bowl](https://github.com/Cinda85/Super-Bowl)
+- Exploratory Data Analysis.
+- Data visualisation using histograms, regression and line plots.
+![](https://github.com/Cinda85/Super-Bowl/blob/main/left_shark.jpg)
+
