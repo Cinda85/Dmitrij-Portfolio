@@ -16,3 +16,4 @@ Data Science Portfolio
 - Exploratory data analysis
 - Data visualisation
 - Bootstrap analysis and confidence intervals
+![](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/220px-Ignaz_Semmelweis_1860.jpg)
