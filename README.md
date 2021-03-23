@@ -37,7 +37,7 @@
 
 
 # [Project 5: PlayMarket. Google Play Store apps and reviews.](https://github.com/Cinda85/PlayMarket)
-- Data on 9659 PlayMarket applications
+- 2 Data sets with apps info, ratings and reviews. 9659 records.
 - Exploratory data analysis.
 - Data Cleaning.
-- 
+- Sentiment Analysis
