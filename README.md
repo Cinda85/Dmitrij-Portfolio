@@ -25,4 +25,5 @@
 # [Project 4: A Visual History of Nobel Prize Winners](https://github.com/Cinda85/A-Visual-History-Of-Nobel-Price-Winners)
 - Exploratory data analysis.
 - Data visualisation with Seaborn.
-- ![](/220px-Ignaz_Semmelweis_1860.jpg)
+
+![](/Alfred%20Nobel.jpg)
