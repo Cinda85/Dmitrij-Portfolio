@@ -26,4 +26,4 @@
 - Exploratory data analysis.
 - Data visualisation with Seaborn.
 
-![](/Alfred Nobel.jpg)
+![](/Alfred_Nobel.jpg)
