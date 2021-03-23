@@ -32,5 +32,4 @@
 - Pandas DataFrame manipulation.
 - Data visualisation with Seaborn.
 
-
-![](/Alfred_Nobel.jpg)
+![](/https://github.com/Cinda85/A-Visual-History-Of-Nobel-Price-Winners/blob/main/Alfred_Nobel.jpg)
