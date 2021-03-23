@@ -16,7 +16,7 @@
 
 ![](/220px-Ignaz_Semmelweis_1860.jpg)
 
-# [Project 3: Super Bowl, Halftime Shows and TV ratings](https://github.com/Cinda85/Super-Bowl)
+# [Project 3: Super Bowl, Halftime Shows and TV Ratings](https://github.com/Cinda85/Super-Bowl)
 - Exploratory data analysis.
 - Data visualisation using histograms, regression and line plots.
 
