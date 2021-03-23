@@ -11,7 +11,7 @@
 
 # [Project 2: Discovery of Handwashing](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/Discovery%20of%20Handwashing.ipynb)
 - Exploratory data analysis.
-- Data visualisation.
+- Data visualisation with Matplotlib.
 - Bootstrap analysis and confidence intervals.
 
 ![](/220px-Ignaz_Semmelweis_1860.jpg)
@@ -22,3 +22,7 @@
 
 ![](/left_shark.jpg)
 
+# [Project 4: A Visual History of Nobel Prize Winners](https://github.com/Cinda85/A-Visual-History-Of-Nobel-Price-Winners)
+- Exploratory data analysis.
+- Data visualisation with Seaborn.
+- ![](/220px-Ignaz_Semmelweis_1860.jpg)
