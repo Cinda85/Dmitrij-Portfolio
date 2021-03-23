@@ -34,3 +34,10 @@
 
 
 ![](/Nobel.jpg)
+
+
+# [Project 5: PlayMarket. Google Play Store apps and reviews.](https://github.com/Cinda85/PlayMarket)
+- Data on 9659 PlayMarket applications
+- Exploratory data analysis.
+- Data Cleaning.
+- 
