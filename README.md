@@ -18,12 +18,16 @@
 
 # [Project 3: Super Bowl, Halftime Shows and TV Ratings](https://github.com/Cinda85/Super-Bowl)
 - Exploratory data analysis.
+- Pandas DataFrame manipulation.
 - Data visualisation using histograms, regression and line plots.
+
 
 ![](/left_shark.jpg)
 
 # [Project 4: A Visual History of Nobel Prize Winners](https://github.com/Cinda85/A-Visual-History-Of-Nobel-Price-Winners)
 - Exploratory data analysis.
+- Pandas DataFrame manipulation.
 - Data visualisation with Seaborn.
+
 
 ![](/Alfred_Nobel.jpg)
