@@ -10,7 +10,7 @@
 ![](/credit_card.jpg)
 
 
-# [Project 2: Discovery of Handwashing](https://github.com/Cinda85/Dmitrij-Portfolio/blob/main/Discovery%20of%20Handwashing.ipynb)
+# [Project 2: Discovery of Handwashing](https://github.com/Cinda85/Dr.-Semmelweis-and-the-Discovery-of-Handwashing)
 - Exploratory data analysis.
 - Data visualisation with Matplotlib.
 - Bootstrap analysis and confidence intervals.
