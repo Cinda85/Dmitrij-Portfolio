@@ -46,6 +46,6 @@
 # [Project 6: European Soccer Database.](https://github.com/Cinda85/European-Soccer/tree/main)
 - Database with teams, players, and matches data.
 - Seasons 2008/2009, 09/10, 10/11, 11/12, 12/13, 13/14, 14/15, 15/16.
-- Querying relational database.
-- EDA using SQL and SQL Alchemy.
-- Visualisations
+- Importing data from database, using SQL and SQL Alchemy.
+- EDA and data cleaning with Pandas.
+- Visualisations.
