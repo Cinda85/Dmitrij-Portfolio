@@ -36,13 +36,6 @@
 ![](/Nobel.jpg)
 
 
-# [Project 5: PlayMarket. Google Play Store apps and reviews.](https://github.com/Cinda85/PlayMarket)
-- 2 Data sets with apps info, ratings and reviews. 9659 records.
-- Exploratory data analysis.
-- Data Cleaning.
-- Sentiment Analysis
-
-
 # [Project 6: European Soccer Database.](https://github.com/Cinda85/European-Soccer/tree/main)
 - Database with teams, players, and matches data.
 - Seasons: 2008/2009, 09/10, 10/11, 11/12, 12/13, 13/14, 14/15, 15/16.
