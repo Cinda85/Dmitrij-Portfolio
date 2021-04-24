@@ -15,7 +15,7 @@
 - Data visualisation with Matplotlib.
 - Bootstrap analysis and confidence intervals.
 
-![](/before after.png)
+![](/BeforeAfter.png)
 
 
 # [Project 3: Super Bowl, Halftime Shows and TV Ratings](https://github.com/Cinda85/Super-Bowl)
