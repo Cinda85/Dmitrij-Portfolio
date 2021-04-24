@@ -43,3 +43,5 @@
 - Importing data from database, using SQL and SQL Alchemy.
 - EDA and data cleaning with Pandas.
 - Visualisations.
+
+![](/GoalsPerGame.png)
