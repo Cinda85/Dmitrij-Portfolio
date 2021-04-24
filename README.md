@@ -24,7 +24,7 @@
 - Data visualisation using histograms, regression and line plots.
 
 
-![](/left_shark.jpg)
+![](https://github.com/Cinda85/Portfolio/blob/main/Images/HouseholdsPointsDifference.png)
 
 
 # [Project 4: A Visual History of Nobel Prize Winners](https://github.com/Cinda85/A-Visual-History-Of-Nobel-Price-Winners)
