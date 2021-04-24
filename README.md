@@ -24,6 +24,7 @@
 - Data visualisation using histograms, regression and line plots.
 
 ![](/HouseholdsPointsDifference.png) 
+
 ![](/Superbowl subplots.png)
 
 
