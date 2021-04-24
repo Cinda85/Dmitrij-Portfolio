@@ -15,7 +15,7 @@
 - Data visualisation with Matplotlib.
 - Bootstrap analysis and confidence intervals.
 
-![](https://github.com/Cinda85/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/blob/main/before%20after.png)
+![](/before after.png)
 
 
 # [Project 3: Super Bowl, Halftime Shows and TV Ratings](https://github.com/Cinda85/Super-Bowl)
