@@ -23,8 +23,8 @@
 - Pandas DataFrame manipulation.
 - Data visualisation using histograms, regression and line plots.
 
-
-![](/HouseholdsPointsDifference.png) ![](/Superbowl subplots.png)
+![](/HouseholdsPointsDifference.png) 
+![](/Superbowl subplots.png)
 
 
 # [Project 4: A Visual History of Nobel Prize Winners](https://github.com/Cinda85/A-Visual-History-Of-Nobel-Price-Winners)
