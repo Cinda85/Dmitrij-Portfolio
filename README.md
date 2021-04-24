@@ -44,5 +44,3 @@
 - EDA and data cleaning with Pandas.
 - Visualisations.
 
-
-![](/GoalsPerGame.png)
